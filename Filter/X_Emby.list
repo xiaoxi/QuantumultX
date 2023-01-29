@@ -1,13 +1,20 @@
 # Emby
+# 终点站
+DOMAIN-SUFFIX,emby.wtf,Emby
+# 卷毛鼠
+DOMAIN-SUFFIX,jmsooo.com,Emby
+# MisakaF
+DOMAIN-SUFFIX,misakaf.org,Emby
+# PornEmby
+DOMAIN-SUFFIX,pornemby.club,Emby
+# Bluesea
+DOMAIN-SUFFIX,blueseacdn.com,Emby
+DOMAIN-SUFFIX,bsem.ddns.me,Emby
+# 魅影普拉斯
+DOMAIN-SUFFIX,maying.club,Emby
 # otakudrive
 DOMAIN-SUFFIX,otakudrive.life,Emby
 IP-CIDR,223.17.168.178/32,Emby
-# 终点站
-DOMAIN-SUFFIX,emby.wtf,Emby
-# 魅影普拉斯
-DOMAIN-SUFFIX,maying.club,Emby
-# 卷毛鼠
-DOMAIN-SUFFIX,jmsooo.com,Emby
 # 普拉斯影业
 DOMAIN-SUFFIX,plusmedia.site,Emby
 DOMAIN-SUFFIX,xeton.dev,Emby
