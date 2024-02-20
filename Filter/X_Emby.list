@@ -3,18 +3,25 @@
 DOMAIN-SUFFIX,emby.wtf,Emby
 # 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com,Emby
-# MisakaF
-DOMAIN-SUFFIX,misakaf.org,Emby
 # PornEmby
 DOMAIN-SUFFIX,pornemby.club,Emby
-# Bluesea
-DOMAIN-SUFFIX,blueseacdn.com,Emby
-DOMAIN-SUFFIX,bsem.ddns.me,Emby
-# 魅影普拉斯
-DOMAIN-SUFFIX,maying.club,Emby
-# otakudrive
-DOMAIN-SUFFIX,otakudrive.life,Emby
-IP-CIDR,223.17.168.178/32,Emby
+# TreeDiagram
+DOMAIN-SUFFIX,123456.al,Emby
+# MagicCloud
+DOMAIN-SUFFIX,freetz.top,Emby
+# NyaMedia
+DOMAIN-SUFFIX,bangumi.ca,Emby
+# Paul_电报服
+DOMAIN-SUFFIX,imetyou.top,Emby
+# Lsemby
+DOMAIN-SUFFIX,xmsl.org,Emby
+DOMAIN-SUFFIX,gtlx.org,Emby
+# EmbyClub
+DOMAIN-SUFFIX,emby.kim,Emby
+# NMEmby
+DOMAIN-SUFFIX,ohhhh.org,Emby
+# 尘烬
+DOMAIN-SUFFIX,emby.eu.org,Emby
 # 普拉斯影业
 DOMAIN-SUFFIX,plusmedia.site,Emby
 DOMAIN-SUFFIX,xeton.dev,Emby
